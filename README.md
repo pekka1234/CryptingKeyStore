@@ -3,11 +3,6 @@
 ## Usage
 CryptingKeyStore can be used to store crypting keys behind a password, for example if you want to crypt usb stick's content and decrypt them with a long key that you can access with a password.
 
-## Installation
-Note for Windows users: You can compile main.cpp for yourshelf if .exe does not work.
-For windows download .exe file
-For linux (and MacOs) download .out file
-
 ## How to use it
 First crypt files and mark down the key
 Then run .out or .exe file and anwser questions
